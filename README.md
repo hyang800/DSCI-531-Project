@@ -14,4 +14,4 @@ Team members:
 - Income Discrimination.ipynb: a notebook including feature analysis, t-test, model selection, model evaluation, fairness analysis & fairness mitigation
 
 ### Dataset Link
-https://drive.google.com/drive/u/0/folders/18vnCMcB0BD4E_rtEoo9MTLWUOZL8z12-
+https://drive.google.com/file/d/1lQJU3DzVEn9icCR04CTYb3vT2PY_NSFC/view?usp=sharing
